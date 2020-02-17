@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="url" content="http://berkatmotor.id">
     <meta name="identifier-URL" content="http://berkatmotor.id">
-    <title>Berkat Motor</title>
+    <title>Berkat Motor | Sticker Oracal Indonesia</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
