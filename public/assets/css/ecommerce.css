@@ -49,12 +49,12 @@ h5, h6, p {
 }
 
 h1 {
-    font-size: calc(22px + (50 - 22) * ((100vw - 300px) / (1920 - 300)));
-    color: #fff;
+    font-size: calc(5px + (40 - 18) * ((100vw - 300px) / (1920 - 300)));
+    color: black;
     font-weight: 400;
     letter-spacing: 2px;
-    margin-top: -7px;
-    margin-bottom: -20px;
+    margin-top: auto;
+    margin-bottom: auto;
     line-height: 1.4
 }
 
@@ -6256,12 +6256,12 @@ footer.bg-light-inner {
     z-index: 99;
     color: #fff;
     text-align: center;
-    background: #000;
+    background: #3cb371;
     border-radius: 100%;
     font-size: 22px;
     cursor: pointer;
     line-height: 2.2;
-    display: none;
+    display: block;
     border: 1px solid #fff
 }
 
@@ -14719,7 +14719,7 @@ footer.saas1 h5 {
     -webkit-animation: color-change 1s infinite;
     animation: color-change 1s infinite;
     color: #1f232c;
-    margin-left: 10px
+    margin-left: 0;
 }
 
 @-webkit-keyframes color-change {
@@ -15665,6 +15665,11 @@ footer.saas1 h5 {
 
 .ecommerce .owl-nav {
     margin: 0
+}
+
+.ecommerce .owl-nav button {
+    border-radius: 999px !important;
+    width: 60px !important;
 }
 
 .ecommerce .owl-nav [class*=owl-] {

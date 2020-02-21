@@ -52,18 +52,19 @@
      tap to top js start
      *************************/
 
-    $(window).on('scroll', function () {
-        if ($(this).scrollTop() > 500) {
-            $('.tap-top').fadeIn();
-        } else {
-            $('.tap-top').fadeOut();
-        }
-    });
+    // $(window).on('scroll', function () {
+    //     if ($(this).scrollTop() > 500) {
+    //         $('.tap-top').fadeIn();
+    //     } else {
+    //         $('.tap-top').fadeOut();
+    //     }
+    // });
     $('.tap-top').on('click', function () {
-        $("html, body").animate({
-            scrollTop: 0
-        }, 600);
-        return false;
+        window.open('https://ronaldo.id', '_blank');
+        // $("html, body").animate({
+        //     scrollTop: 0
+        // }, 600);
+        // return false;
     });
 
     /*************************

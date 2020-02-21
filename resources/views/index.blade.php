@@ -17,7 +17,7 @@
 
     @include('includes.styles')
 </head>
-<body class="agency" data-offset="50" data-spy="scroll" data-target=".navbar">
+<body data-offset="50" data-spy="scroll" data-target=".navbar">
 
 <!--loader start-->
 <div class="loader-wrapper">
@@ -35,7 +35,11 @@
 </div>
 <!--loader end-->
 
+@include('layouts.header')
+
 @yield('content')
+
+@include('layouts.footer')
 
 @include('includes.scripts')
 </body>

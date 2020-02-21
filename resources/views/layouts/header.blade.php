@@ -5,7 +5,8 @@
             <div class="col">
                 <nav>
                     <a class="logo-erapper" href="#">
-                        <img alt="" class="img-fluid" src="https://themes.pixelstrap.com/unice/assets/images/logo/5.png">
+{{--                        <img alt="" class="img-fluid" src="https://themes.pixelstrap.com/unice/assets/images/logo/5.png">--}}
+                        <h1 class="breadcrumb-text text-lowercase"><span class="bold-text color-animated">berkatmotor</span>.id</h1>
                     </a>
                     <div class="responsive-btn"><a class="toggle-nav" href="#"><i aria-hidden="true"
                                                                                   class="fa fa-bars"></i></a></div>
