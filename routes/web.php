@@ -11,6 +11,17 @@
 |
 */
 
+use Illuminate\Support\Facades\Route;
+
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.home');
 });
+
+//Route::get('/coming-soon', function () {
+//    return view('welcome');
+//})->name('coming-soon');
+//
+//
+//Route::get('{anyExceptRoot}', function() {
+//    return redirect('coming-soon');
+//})->where('anyExceptRoot', '[^/]*');
