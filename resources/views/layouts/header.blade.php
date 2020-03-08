@@ -10,7 +10,7 @@
                     </a>
                     <div class="responsive-btn"><a class="toggle-nav" href="#"><i aria-hidden="true"
                                                                                   class="fa fa-bars"></i></a></div>
-                    <div class="navbar" id="togglebtn">
+                    <div class="navbar m-l-auto" id="togglebtn">
                         <div class="responsive-btn">
                             <h5 class="btn-back">back</h5>
                         </div>
@@ -89,85 +89,6 @@
                                 </div>
                             </li>
                             <li><a href="/">tentang kita</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="top-header-right">
-                        <ul>
-                            <li class="search">
-                                <a aria-expanded="false" data-toggle="dropdown" href="#" id="dropdownMenuButton">
-                                    <i class="icon-search"></i>
-                                </a>
-                                <div aria-labelledby="dropdownMenuButton" class="dropdown-menu dropdown-menu-right">
-                                    <form class="form-inline search-form">
-                                        <div class="form-group">
-                                            <label class="sr-only">Email</label>
-                                            <input class="form-control-plaintext" placeholder="Search...."
-                                                   type="search">
-                                            <span class="d-sm-none mobile-search">
-                                </span>
-                                        </div>
-                                    </form>
-                                </div>
-                            </li>
-                            <li class="cart">
-                                <a aria-expanded="false" data-toggle="dropdown" href="#" id="dropdownMenuButton1">
-                                    <i class="icon-shopping-cart-full"></i>
-                                </a>
-                                <div aria-labelledby="dropdownMenuButton1" class="dropdown-menu dropdown-menu-right">
-                                    <ul class="shopping-cart">
-                                        <li>
-                                            <div class="media">
-                                                <a href="#"><img alt="Generic placeholder image"
-                                                                 class="mr-3"
-                                                                 src="../assets/images/inner-page/category/3.jpg"></a>
-                                                <div class="media-body">
-                                                    <a href="#">
-                                                        <h5>item name</h5>
-                                                    </a>
-                                                    <h5><span>1 x $ 299.00</span></h5>
-                                                </div>
-                                            </div>
-                                            <div class="close-circle"><a href="#"><i aria-hidden="true"
-                                                                                     class="fa fa-times"></i></a></div>
-                                        </li>
-                                        <li>
-                                            <div class="media">
-                                                <a href="#"><img alt="Generic placeholder image"
-                                                                 class="mr-3"
-                                                                 src="../assets/images/inner-page/category/1.jpg"></a>
-                                                <div class="media-body">
-                                                    <a href="#">
-                                                        <h5>item name</h5>
-                                                    </a>
-                                                    <h5><span>1 x $ 299.00</span></h5>
-                                                </div>
-                                            </div>
-                                            <div class="close-circle"><a href="#"><i aria-hidden="true"
-                                                                                     class="fa fa-times"></i></a></div>
-                                        </li>
-                                        <li>
-                                            <div class="total">
-                                                <h5>subtotal : <span>$299.00</span></h5>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="buttons"><a class="view-cart" href="cart.html">view cart</a> <a
-                                                    class="checkout" href="#">checkout</a></div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li class="account ">
-                                <a aria-expanded="false" data-toggle="dropdown" href="#" id="dropdownMenuButton2">
-                                    <i class="icon-user"></i>
-                                </a>
-                                <div aria-labelledby="dropdownMenuButton2" class="dropdown-menu dropdown-menu-right">
-                                    <a class="dropdown-item" href="#">Login</a>
-                                    <a class="dropdown-item" href="#">Account</a>
-                                    <a class="dropdown-item" href="#">Whishlist</a>
-                                    <a class="dropdown-item" href="#">Checkout</a>
-                                </div>
                             </li>
                         </ul>
                     </div>
