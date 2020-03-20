@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b3a71f-764f-4309-b610-fd07952cd2d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/shop-sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/shop.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assets/css/ecommerce.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/ecommerce.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/home-slider.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/home-slider.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/home.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +169,10 @@
       <option name="presentableId" value="Default" />
       <updated>1581955229982</updated>
       <workItem from="1581955231475" duration="3558000" />
-      <workItem from="1582295852615" duration="10579000" />
+      <workItem from="1582295852615" duration="11829000" />
+      <workItem from="1583996456449" duration="1228000" />
+      <workItem from="1584064581546" duration="4000" />
+      <workItem from="1584713042092" duration="1879000" />
     </task>
     <servers />
   </component>
@@ -188,17 +188,17 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="519" y="279" width="317" height="143" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1582455046690" />
-    <state x="366" y="107" width="633" height="536" key="find.popup" timestamp="1582456997203">
+    <state x="366" y="107" width="633" height="536" key="find.popup" timestamp="1584715895796">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="366" y="107" width="633" height="536" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1582456997203" />
+    <state x="366" y="107" width="633" height="536" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1584715895796" />
     <state x="347" y="167" key="run.anything.popup" timestamp="1581955740826">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="347" y="167" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1581955740826" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582457090950">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584715562099">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1582457090950" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1584715562099" />
   </component>
 </project>

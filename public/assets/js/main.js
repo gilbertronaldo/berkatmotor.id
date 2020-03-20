@@ -60,7 +60,7 @@
     //     }
     // });
     $('.tap-top').on('click', function () {
-        window.open('https://ronaldo.id', '_blank');
+        window.open('https://api.whatsapp.com/send?phone=628111860708', '_blank');
         // $("html, body").animate({
         //     scrollTop: 0
         // }, 600);

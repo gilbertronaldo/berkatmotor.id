@@ -14,15 +14,15 @@
                     </div>
                     <p>Distributor dan grosir cutting sticker, Oracal, Scothlite, Oracal, 3M, Sandblast, Window Film,
                         DCFIX, Glassmate, Vinyl Sticker.</p>
-                    <div class="footer-social">
-                        <ul>
-                            <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i aria-hidden="true" class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i aria-hidden="true" class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i aria-hidden="true" class="fa fa-rss"></i></a></li>
-                        </ul>
-                    </div>
+{{--                    <div class="footer-social">--}}
+{{--                        <ul>--}}
+{{--                            <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>--}}
+{{--                            <li><a href="#"><i aria-hidden="true" class="fa fa-google-plus"></i></a></li>--}}
+{{--                            <li><a href="#"><i aria-hidden="true" class="fa fa-twitter"></i></a></li>--}}
+{{--                            <li><a href="#"><i aria-hidden="true" class="fa fa-instagram"></i></a></li>--}}
+{{--                            <li><a href="#"><i aria-hidden="true" class="fa fa-rss"></i></a></li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
                 </div>
             </div>
             <div class="col offset-xl-1">
@@ -38,6 +38,7 @@
                                 Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11160
                             </li>
                             <li><i class="fa fa-phone"></i>Telepon: (021) 6397695</li>
+                            <li><i class="fab fa-whatsapp"></i>Whatsapp: 08111-86-0708</li>
                             <li><i class="fa fa-envelope-o"></i>Email : contact@berkatmotor.id</li>
                             {{--                            <li><i class="fa fa-fax"></i>Fax: 123456</li>--}}
                         </ul>
