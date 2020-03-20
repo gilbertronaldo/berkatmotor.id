@@ -12,8 +12,7 @@
                                 class="bold-text color-animated">berkatmotor</span><span class="text-white">.id</span>
                         </h1>
                     </div>
-                    <p>Distributor dan grosir cutting sticker, Oracal, Scothlite, Oracal, 3M, Sandblast, Window Film,
-                        DCFIX, Glassmate, Vinyl Sticker.</p>
+                    <p>Distributor Oracal, Dcfix, 3M, Scotchlite, Window film, Sandblast, Vinyl Sticker, Safety marking truck, Glow in the dark, etc.</p>
 {{--                    <div class="footer-social">--}}
 {{--                        <ul>--}}
 {{--                            <li><a href="#"><i aria-hidden="true" class="fa fa-facebook"></i></a></li>--}}
@@ -37,7 +36,7 @@
                             <li><i class="fa fa-map-marker"></i>Jl. Sukarjo Wiryopranoto No.7A, RW.1, Maphar, Kec. Taman
                                 Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11160
                             </li>
-                            <li><i class="fa fa-phone"></i>Telepon: (021) 6397695</li>
+                            <li><i class="fa fa-phone"></i>Phone: 021-6397695</li>
                             <li><i class="fab fa-whatsapp"></i>Whatsapp: 08111-86-0708</li>
                             <li><i class="fa fa-envelope-o"></i>Email : contact@berkatmotor.id</li>
                             {{--                            <li><i class="fa fa-fax"></i>Fax: 123456</li>--}}
