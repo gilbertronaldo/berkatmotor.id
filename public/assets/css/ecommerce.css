@@ -77,7 +77,7 @@ h2 {
 }
 
 h3 {
-    font-size: calc(18px + (26 - 18) * ((100vw - 300px) / (1920 - 300)));
+    font-size: calc(30px + (26 - 18) * ((100vw - 300px) / (1920 - 300)));
     margin-top: -4px;
     margin-bottom: 0
 }
