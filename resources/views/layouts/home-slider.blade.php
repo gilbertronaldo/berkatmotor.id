@@ -2,7 +2,7 @@
     <section class="ecommerce ecommerce-home">
         <div class="ecommerce-home-slider owl-carousel owl-theme">
             <div class="item">
-                <img alt="#" class="bg-img" src="https://themes.pixelstrap.com/unice/assets/images/ecommerce/1.jpg">
+                <img alt="#" class="bg-img" src="{{ asset('assets/images/banner.jpg') }}">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-5 col-lg-6 col-sm-8">
