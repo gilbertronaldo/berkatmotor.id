@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="description"
-          content="Berkat Motor | Distributor dan grosir cutting sticker, Oracal, Scothlite, Oracal, 3M, Sandblast, Window Film, DCFIX, Glassmate, Vinyl Sticker.">
+          content="Berkat Motor | Distributor Oracal, Dcfix, 3M, Scotchlite, Window film, Sandblast, Vinyl Sticker, Safety marking truck, Glow in the dark, etc.">
     <meta name="keywords"
-          content="Berkat Motor, berkatmotor, berkatsticker, Berkat Sticker, Berkat, Sticker, Stiker, Oracal, 3M, Scotchlite, Sandblast, Glassmate, ORACAL, Window, Film, Vinyl">
+          content="Berkat Motor, berkatmotor, berkatsticker, Berkat Sticker, Berkat, Sticker, Stiker, Oracal, 3M, Scotchlite, Dcfix, Sandblast, Glassmate, ORACAL, Window, Film, Vinyl, Safety marking truck, Glow in the dark">
     <meta name="author" content="Gilbert Ronaldo, gilbert@ronaldo.id">
     <meta name="copyright" content="berkatmotor.id">
     <meta name="robots" content="index,follow"/>
