@@ -18,6 +18,8 @@
                         <ul class="main-menu">
                             <li><a href="/">home</a>
                             </li>
+{{--                            <li><a href="/shop">shop</a>--}}
+{{--                            </li>--}}
 {{--                            <li class="mega-menu"><a class="dropdown" href="#">produk</a>--}}
 {{--                                <div class="mega-menu-container">--}}
 {{--                                    <div class="container">--}}

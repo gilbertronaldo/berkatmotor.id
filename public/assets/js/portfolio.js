@@ -17,6 +17,8 @@
                 isotopeContainer.isotope({filter: filterValue});
                 e.preventDefault();
             });
+            var filterValue = $('.isotopeFilters a').attr('data-filter');
+            isotopeContainer.isotope({filter: filterValue});
         });
 
         // 3 column layout

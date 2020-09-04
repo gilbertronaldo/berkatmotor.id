@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Oracal",
+        "code": "oracal"
+    },
+    {
+        "title": "3M",
+        "code": "3m"
+    },
+    {
+        "title": "Scotchlite",
+        "code": "scotchlite"
+    },
+    {
+        "title": "Vinyl Sticker",
+        "code": "vinyl-sticker"
+    },
+    {
+        "title": "Decorative Vinyl",
+        "code": "vinyl-decorative"
+    },
+    {
+        "title": "Transfer Tape",
+        "code": "transfer-tape"
+    },
+    {
+        "title": "Sandblast",
+        "code": "sandblast"
+    },
+    {
+        "title": "Window Film",
+        "code": "window-film"
+    },
+    {
+        "title": "Glow in the dark / Fosfor / Photoluminuous",
+        "code": "glow-in-the-dark"
+    },
+    {
+        "title": "Safety Marking Truck",
+        "code": "safety-marking-truck"
+    },
+    {
+        "title": "Safetywalk / Supresistant / Antisup",
+        "code": "safetywalk"
+    },
+    {
+        "title": "Magnetic Sheet",
+        "code": "magnetic-sheet"
+    },
+    {
+        "title": "Cutting Plotter",
+        "code": "cutting-plotter"
+    },
+    {
+        "title": "Tools",
+        "code": "tools"
+    },
+    {
+        "title": "Security Sticker",
+        "code": "security-sticker"
+    },
+    {
+        "title": "Raincoat",
+        "code": "raincoat"
+    },
+    {
+        "title": "Others",
+        "code": "others"
+    }
+]
