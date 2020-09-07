@@ -20,6 +20,10 @@
         "code": "vinyl-decorative"
     },
     {
+        "title": "Wood Vinyl",
+        "code": "vinyl-wood"
+    },
+    {
         "title": "Transfer Tape",
         "code": "transfer-tape"
     },
@@ -32,8 +36,8 @@
         "code": "window-film"
     },
     {
-        "title": "Glow in the dark / Fosfor / Photoluminuous",
-        "code": "glow-in-the-dark"
+        "title": "Security Sticker",
+        "code": "security-sticker"
     },
     {
         "title": "Safety Marking Truck",
@@ -54,10 +58,6 @@
     {
         "title": "Tools",
         "code": "tools"
-    },
-    {
-        "title": "Security Sticker",
-        "code": "security-sticker"
     },
     {
         "title": "Raincoat",
