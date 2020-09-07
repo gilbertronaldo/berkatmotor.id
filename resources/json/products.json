@@ -280,33 +280,39 @@
         "img": "honeycomb-bright.jpg"
     },
     {
-        "title": "Magnetic Sheet",
+        "title": "THICKNESS AVAILABLE IN: 0.4MM,0.7MM,1MM,2MM,0.7MM WITH ADHESIVE",
         "category": "magnetic-sheet",
+        "sub": "Magnetic Sheet 60CM",
         "img": "magnet-sheet.jpg"
     },
     {
-        "title": "Cutting Plotter Holder - GRAPHTEC",
+        "title": "Cutting Plotter Holder",
         "category": "cutting-plotter",
+        "sub": "GRAPHTEC",
         "img": "graphtec-blade-holder.jpg"
     },
     {
-        "title": "Cutting Plotter Holder - ROLAND",
+        "title": "Cutting Plotter Holder",
         "category": "cutting-plotter",
+        "sub": "ROLAND",
         "img": "roland-blade-holder.jpg"
     },
     {
-        "title": "Cutting Plotter Blade - GRAPHTEC",
+        "title": "Blade 30 degree, 45 degree, 60 degree",
         "category": "cutting-plotter",
+        "sub": "GRAPHTEC",
         "img": "graphtec-blade.jpg"
     },
     {
-        "title": "Cutting Plotter Blade - MIMAKI",
+        "title": "Blade 30 degree, 45 degree, 60 degree",
         "category": "cutting-plotter",
+        "sub": "MIMAKI",
         "img": "mimaki-blade.jpg"
     },
     {
-        "title": "Cutting Plotter Blade - ROLAND",
+        "title": "Blade 30 degree, 45 degree, 60 degree",
         "category": "cutting-plotter",
+        "sub": "ROLAND",
         "img": "roland-blade.jpg"
     },
     {
