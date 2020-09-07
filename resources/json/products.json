@@ -316,18 +316,81 @@
         "img": "roland-blade.jpg"
     },
     {
-        "title": "Tools - Cutter",
+        "title": "3M Biru",
         "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "3m-biru.jpg"
+    },
+    {
+        "title": "3M Busa",
+        "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "3m-busa.jpg"
+    },
+    {
+        "title": "Yellow one",
+        "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "yellow-one.jpg"
+    },
+    {
+        "title": "Rakel 3H",
+        "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "rakel-3h.jpg"
+    },
+    {
+        "title": "MC530",
+        "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "mc530.jpg"
+    },
+    {
+        "title": "Rakel 3M Boss",
+        "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "rakel-3m-boss.jpg"
+    },
+    {
+        "title": "Rakel Besi",
+        "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "rakel-besi.jpg"
+    },
+    {
+        "title": "Rakel Biru",
+        "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "rakel-biru.jpg"
+    },
+    {
+        "title": "Rakel Kecil Bulat",
+        "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "rakel-kecil-bulat.jpg"
+    },
+    {
+        "title": "Rakel Sendok",
+        "category": "tools",
+        "sub": "SCRAPPER/RAKEL",
+        "img": "rakel-sendok.jpg"
+    },
+    {
+        "title": "Cutter with grip",
+        "category": "tools",
+        "sub": "CUTTER",
         "img": "cutter-with-grip.jpg"
     },
     {
-        "title": "Tools - Magnet Pasang",
+        "title": "Magnet Pasang",
         "category": "tools",
+        "sub": "Magnet Pasang",
         "img": "magnet-pasang.jpg"
     },
     {
-        "title": "Tools - Velt",
+        "title": "Velt",
         "category": "tools",
+        "sub": "VELT",
         "img": "tools-velt.jpg"
     },
     {
