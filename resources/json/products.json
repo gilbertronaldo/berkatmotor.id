@@ -148,14 +148,136 @@
         "img": "transfer-tape.jpg"
     },
     {
-        "title": "Safety Marking Truck - 3M ENGINEER GRADE PRISMATIC",
+        "title": "3M EGP",
         "category": "safety-marking-truck",
+        "sub": "3M ENGINEER GRADE PRISMATIC",
         "img": "3m-egp.jpg"
     },
     {
-        "title": "Safety Marking Truck - 3M ENGINEER GRADE PRISMATIC",
+        "title": "3M EGP Bright",
         "category": "safety-marking-truck",
+        "sub": "3M ENGINEER GRADE PRISMATIC",
         "img": "3m-egp-bright.jpg"
+    },
+    {
+        "title": "Chess White red",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-chess-wh-rd.jpg"
+    },
+    {
+        "title": "Chess  White red Bright",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-chess-wh-rd-bright.jpg"
+    },
+    {
+        "title": "Chess Yellow Black",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-chess-yl-bk.jpg"
+    },
+    {
+        "title": "Chess Yellow Black Bright",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-chess-yl-bk-bright.jpg"
+    },
+    {
+        "title": "3M Conspicuity",
+        "category": "safety-marking-truck",
+        "sub": "3M DIAMOND GRADE CONSPICUITY MARKING 983 SERIES",
+        "img": "3m-conspicuity.jpg"
+    },
+    {
+        "title": "3M Conspicuity Bright",
+        "category": "safety-marking-truck",
+        "sub": "3M DIAMOND GRADE CONSPICUITY MARKING 983 SERIES",
+        "img": "3m-conspicuity-bright.jpg"
+    },
+    {
+        "title": "3M 983D White Red",
+        "category": "safety-marking-truck",
+        "sub": "3M DIAMOND GRADE CONSPICUITY MARKING 983 SERIES",
+        "img": "3m-983d-wh-rd.jpg"
+    },
+    {
+        "title": "3M 983D White Red Bright",
+        "category": "safety-marking-truck",
+        "sub": "3M DIAMOND GRADE CONSPICUITY MARKING 983 SERIES",
+        "img": "3m-983d-wh-rd-bright.jpg"
+    },
+    {
+        "title": "Primatic Logo",
+        "category": "safety-marking-truck",
+        "sub": "PRISMATIC LOGO",
+        "img": "prismatic-ce.jpg"
+    },
+    {
+        "title": "Primatic Logo Bright",
+        "category": "safety-marking-truck",
+        "sub": "PRISMATIC LOGO",
+        "img": "prismatic-ce-bright.jpg"
+    },
+    {
+        "title": "Police White Red",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-police-wh-rd.jpg"
+    },
+    {
+        "title": "Police White Red Bright",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-police-wh-rd-bright.jpg"
+    },
+    {
+        "title": "Police Yellow Black",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-police-yl-bk.jpg"
+    },
+    {
+        "title": "Police Yellow Black Bright",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-police-yl-bk-bright.jpg"
+    },
+    {
+        "title": "Arrow White Red",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-arrow-wh-rd.jpg"
+    },
+    {
+        "title": "Arrow White Red Bright",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-arrow-wh-rd-bright.jpg"
+    },
+    {
+        "title": "Stripe White Red",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-stripe-wh-rd.jpg"
+    },
+    {
+        "title": "Stripe White Red Bright",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB MOTIF (ARROW, STRIPE, POLICE LINE, CHESS)",
+        "img": "hc-stripe-wh-rd-bright.jpg"
+    },
+    {
+        "title": "Honeycomb",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB POLOS",
+        "img": "honeycomb.jpg"
+    },
+    {
+        "title": "Honeycomb Bright",
+        "category": "safety-marking-truck",
+        "sub": "HONEYCOMB POLOS",
+        "img": "honeycomb-bright.jpg"
     },
     {
         "title": "Magnetic Sheet",

@@ -47,13 +47,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8b3a71f-764f-4309-b610-fd07952cd2d7" name="Default Changelist" comment="Product - update category order">
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/Aurocal 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/Aurocal 2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/Aurocal 3.jpg" afterDir="false" />
+    <list default="true" id="e8b3a71f-764f-4309-b610-fd07952cd2d7" name="Default Changelist" comment="Product - transfer tape">
+      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3m-983d-wh-rd-bright.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3m-983d-wh-rd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3m-conspicuity-bright.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3m-conspicuity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/products/hc-chess-wh-rd-bright.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/products/hc-chess-wh-rd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/products/hc-chess-yl-bk-bright.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/products/hc-chess-yl-bk.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/json/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/json/products.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/home.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +228,7 @@
       <workItem from="1598241637064" duration="713000" />
       <workItem from="1598277412859" duration="3353000" />
       <workItem from="1599229325713" duration="3991000" />
-      <workItem from="1599484473115" duration="5045000" />
+      <workItem from="1599484473115" duration="6610000" />
     </task>
     <task id="LOCAL-00001" summary="Update products">
       <created>1599232030421</created>
@@ -254,7 +258,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599489067210</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Product - vinyl sticker">
+      <created>1599489609944</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599489609944</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Product - wood vinyl">
+      <created>1599489724381</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599489724381</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Product - transfer tape">
+      <created>1599489823752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599489823752</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,7 +312,10 @@
     <MESSAGE value="Update product pages" />
     <MESSAGE value="Product - Carbon" />
     <MESSAGE value="Product - update category order" />
-    <option name="LAST_COMMIT_MESSAGE" value="Product - update category order" />
+    <MESSAGE value="Product - vinyl sticker" />
+    <MESSAGE value="Product - wood vinyl" />
+    <MESSAGE value="Product - transfer tape" />
+    <option name="LAST_COMMIT_MESSAGE" value="Product - transfer tape" />
   </component>
   <component name="WindowStateProjectService">
     <state x="127" y="85" width="1092" height="620" key="DiffContextDialog" timestamp="1599232049603">
@@ -298,10 +326,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="374" y="98" width="607" height="596" key="NewPhpClassDialog/0.27.1366.741@0.27.1366.741" timestamp="1599484641290" />
-    <state x="278" y="129" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1599489068077">
+    <state x="278" y="129" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1599489824538">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="129" width="800" height="534" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1599489068077" />
+    <state x="278" y="129" width="800" height="534" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1599489824538" />
     <state x="377" y="62" width="611" height="670" key="find.popup" timestamp="1599487838875">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
