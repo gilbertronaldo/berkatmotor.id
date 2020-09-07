@@ -19682,23 +19682,23 @@ footer.saas1 h5 {
         margin-bottom: 15px
     }
 
-    .filter-section .filter-container ul.filter > li {
-        text-decoration: line-through;
-        padding: 0 8px
-    }
+    /*.filter-section .filter-container ul.filter > li {*/
+    /*    text-decoration: line-through;*/
+    /*    padding: 0 8px*/
+    /*}*/
 
-    .filter-section .filter-container ul.filter > li a {
-        line-height: 1
-    }
+    /*.filter-section .filter-container ul.filter > li a {*/
+    /*    line-height: 1*/
+    /*}*/
 
-    .filter-section .filter-container ul.filter > li.active {
-        background-color: transparent;
-        text-decoration: none
-    }
+    /*.filter-section .filter-container ul.filter > li.active {*/
+    /*    background-color: transparent;*/
+    /*    text-decoration: none*/
+    /*}*/
 
-    .filter-section .filter-container ul.filter > li.active a {
-        color: #000
-    }
+    /*.filter-section .filter-container ul.filter > li.active a {*/
+    /*    color: #000*/
+    /*}*/
 
     .testimonial.gym .testimonial-para, .testimonial.music .testimonial-para, .testimonial.wedding .testimonial-para, .testimonial.yoga .testimonial-para, .testimonial.agency .testimonial-para {
         margin-bottom: 20px !important

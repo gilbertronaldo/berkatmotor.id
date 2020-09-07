@@ -47,36 +47,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8b3a71f-764f-4309-b610-fd07952cd2d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_9_4_20__9_22_PM.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/aluminium-brushed-150cm.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/aluminium-brushed-detail.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/asahi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-2D-150cm.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-3D-150cm.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-3D-4D-5D-6D-150cm.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-4D-150cm.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-5D-150cm.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-6D-150cm.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-kevlar-150cm.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/dcfix.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/goodfix.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/goodfix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/nikkalite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/oracal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/transign.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/json/product-categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/json/products.json" afterDir="false" />
+    <list default="true" id="e8b3a71f-764f-4309-b610-fd07952cd2d7" name="Default Changelist" comment="Update products">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/product.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/zoom-gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/zoom-gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/json/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/json/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/includes/scripts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/scripts.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/home-slider.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/home-slider.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -90,6 +69,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gilbert Ronaldo &lt;gilbert@ronaldo.id&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -192,8 +176,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/images/products" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/pages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -204,13 +189,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/assets/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/pages" />
       <recent name="$PROJECT_DIR$/public/assets/images/products" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public/css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/assets/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -241,12 +227,31 @@
       <workItem from="1598240368274" duration="1086000" />
       <workItem from="1598241637064" duration="713000" />
       <workItem from="1598277412859" duration="3353000" />
-      <workItem from="1599229325713" duration="2664000" />
+      <workItem from="1599229325713" duration="3991000" />
+      <workItem from="1599484473115" duration="3364000" />
     </task>
+    <task id="LOCAL-00001" summary="Update products">
+      <created>1599232030421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599232030421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -260,18 +265,30 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update products" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update products" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="374" y="98" width="607" height="596" key="NewPhpClassDialog" timestamp="1598278287227">
+    <state x="127" y="85" width="1092" height="620" key="DiffContextDialog" timestamp="1599232049603">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="374" y="98" width="607" height="596" key="NewPhpClassDialog/0.27.1366.741@0.27.1366.741" timestamp="1598278287226" />
-    <state x="377" y="62" width="611" height="670" key="find.popup" timestamp="1599230964129">
+    <state x="127" y="85" width="1092" height="620" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1599232049603" />
+    <state x="374" y="98" width="607" height="596" key="NewPhpClassDialog" timestamp="1599484641290">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="377" y="62" width="611" height="670" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1599230964129" />
-    <state x="347" y="44" width="672" height="676" key="search.everywhere.popup" timestamp="1599230940120">
+    <state x="374" y="98" width="607" height="596" key="NewPhpClassDialog/0.27.1366.741@0.27.1366.741" timestamp="1599484641290" />
+    <state x="278" y="129" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1599232050916">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="347" y="44" width="672" height="676" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1599230940120" />
+    <state x="278" y="129" width="800" height="534" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1599232050916" />
+    <state x="377" y="62" width="611" height="670" key="find.popup" timestamp="1599487838875">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="377" y="62" width="611" height="670" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1599487838875" />
+    <state x="347" y="44" width="672" height="676" key="search.everywhere.popup" timestamp="1599486867584">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="44" width="672" height="676" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1599486867584" />
   </component>
 </project>

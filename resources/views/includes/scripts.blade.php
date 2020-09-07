@@ -9,7 +9,7 @@
 <!--magnific popup js-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
-<script src="{{ asset('assets/js/portfolio.js')  }}"></script>
+{{--<script src="{{ asset('assets/js/portfolio.js')  }}"></script>--}}
 <!-- AOS JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 <!--owl js-->

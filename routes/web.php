@@ -15,6 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'HomeController@index');
 
+Route::get('/products/{productCategory}', 'HomeController@product');
+
 Route::get('/shop', function () {
     return view('pages.shop');
 });

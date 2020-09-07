@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col">
                 <nav>
-                    <a class="logo-erapper" href="#">
+                    <a class="logo-erapper" href="/">
 {{--                        <img alt="" class="img-fluid" src="https://themes.pixelstrap.com/unice/assets/images/logo/5.png">--}}
                         <h3 class="breadcrumb-text text-lowercase"><span class="bold-text color-animated">berkatmotor</span>.id</h3>
                         <h6 class="breadcrumb-text small">Since 1972</h6>
