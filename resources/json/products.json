@@ -11,33 +11,57 @@
     },
     {
         "title": "Oracal",
+        "sub": "Oracal",
         "category": "vinyl-sticker",
         "img": "oracal-1.jpg"
     },
     {
-        "title": "Oracal",
+        "title": "Katalog 1",
+        "sub": "Oracal",
         "category": "vinyl-sticker",
         "img": "oracal-2.jpg"
     },
     {
-        "title": "Oracal",
+        "title": "Katalog 2",
+        "sub": "Oracal",
         "category": "vinyl-sticker",
         "img": "oracal-3.jpg"
     },
     {
         "title": "Goodfix",
         "category": "vinyl-sticker",
+        "sub": "Goodfix",
         "img": "goodfix-1.jpg"
     },
     {
-        "title": "Goodfix",
+        "title": "Katalog 1",
         "category": "vinyl-sticker",
+        "sub": "Goodfix",
         "img": "goodfix-2.jpg"
     },
     {
-        "title": "Goodfix",
+        "title": "Katalog 2",
         "category": "vinyl-sticker",
+        "sub": "Goodfix",
         "img": "goodfix-3.jpg"
+    },
+    {
+        "title": "Aurocal",
+        "category": "vinyl-sticker",
+        "sub": "Aurocal",
+        "img": "aurocal-1.jpg"
+    },
+    {
+        "title": "Katalog 1",
+        "category": "vinyl-sticker",
+        "sub": "Aurocal",
+        "img": "aurocal-2.jpg"
+    },
+    {
+        "title": "Katalog 2",
+        "category": "vinyl-sticker",
+        "sub": "Aurocal",
+        "img": "aurocal-3.jpg"
     },
     {
         "title": "Wood Vinyl",

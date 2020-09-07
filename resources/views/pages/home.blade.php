@@ -21,22 +21,10 @@
                     </div>
                 </div>
                 <div class="isotopeContainer row">
-                    <div class="col-lg-2 col-md-4 col-6 isotopeSelector">
-                        <div class="overlay">
-                            <div class="border-portfolio">
-                                <a class="zoom_gallery" style="background-color: rgb(300, 300, 300);" href="{{ asset('assets/images/3m.png') }}">
-                                    <div class="overlay-background">
-                                        <i aria-hidden="true" class="fa fa-link"></i>
-                                    </div>
-                                    <img alt="" style="background-color: rgb(300, 300, 300);" class="img-fluid" src="{{ asset('assets/images/3m.png') }}">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-lg-2 col-md-4 col-6  isotopeSelector">
                         <div class="overlay">
                             <div class="border-portfolio">
-                                <a class="zoom_gallery" href="{{ asset('assets/images/oracal.jpg') }}">
+                                <a href="/products/oracal">
                                     <div class="overlay-background">
                                         <i aria-hidden="true" class="fa fa-link"></i>
                                     </div>
@@ -48,7 +36,19 @@
                     <div class="col-lg-2 col-md-4 col-6 isotopeSelector">
                         <div class="overlay">
                             <div class="border-portfolio">
-                                <a class="zoom_gallery" href="{{ asset('assets/images/dcfix.jpg') }}">
+                                <a style="background-color: rgb(300, 300, 300);" href="/products/3m">
+                                    <div class="overlay-background">
+                                        <i aria-hidden="true" class="fa fa-link"></i>
+                                    </div>
+                                    <img alt="" style="background-color: rgb(300, 300, 300);" class="img-fluid" src="{{ asset('assets/images/3m.png') }}">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6 isotopeSelector">
+                        <div class="overlay">
+                            <div class="border-portfolio">
+                                <a href="/products/vinyl-sticker">
                                     <div class="overlay-background">
                                         <i aria-hidden="true" class="fa fa-link"></i>
                                     </div>
