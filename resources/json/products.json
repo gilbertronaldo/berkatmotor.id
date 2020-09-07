@@ -394,8 +394,27 @@
         "img": "tools-velt.jpg"
     },
     {
-        "title": "null",
-        "category": "null",
-        "img": "null.jpg"
+        "title": "Scotchlite Kain 2.5cm",
+        "category": "others",
+        "sub": "Scotchlite Kain",
+        "img": "scotchlite-kain-2.5cm.jpg"
+    },
+    {
+        "title": "Scotchlite Kain 2.5cm Pantul",
+        "category": "others",
+        "sub": "Scotchlite Kain",
+        "img": "scotchlite-kain-2.5cm-pantul.jpg"
+    },
+    {
+        "title": "Scotchlite Kain 5cm",
+        "category": "others",
+        "sub": "Scotchlite Kain",
+        "img": "scotchlite-kain-5cm.jpg"
+    },
+    {
+        "title": "Scotchlite Kain 5cm Pantul",
+        "category": "others",
+        "sub": "Scotchlite Kain",
+        "img": "scotchlite-kain-5cm-pantul.jpg"
     }
 ]
