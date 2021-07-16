@@ -142,11 +142,11 @@
             </div>
         </div>
         <div class="collection-collapse-block border-0 m-0">
-            <h3 class="collapse-block-title">safetywalk/ supresistant/ antisup</h3>
+            <h3 class="collapse-block-title">safety walk/slip resistant/anti slip</h3>
             <div class="collection-collapse-block-content" style="display:none;">
                 <div class="collection-brand-filter">
                     <ul class="category-list">
-                        <li><a href="#">safetywalk/supresistant/antisup</a></li>
+                        <li><a href="#">safety walk/slip resistant/anti slip</a></li>
                     </ul>
                 </div>
             </div>

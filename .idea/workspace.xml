@@ -47,86 +47,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8b3a71f-764f-4309-b610-fd07952cd2d7" name="Default Changelist" comment="fix composer">
-      <change beforePath="$PROJECT_DIR$/.idea/berkatmotor.id.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/berkatmotor.id.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/asahi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/asahi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/dcfix.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/dcfix.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/goodfix.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/goodfix.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/nikkalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/nikkalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/oracal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/oracal.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/3m-983d-wh-rd-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/3m-983d-wh-rd-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/3m-983d-wh-rd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/3m-983d-wh-rd.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/3m-biru.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/3m-biru.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/3m-busa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/3m-busa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/3m-conspicuity-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/3m-conspicuity-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/3m-conspicuity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/3m-conspicuity.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/3m-egp-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/3m-egp-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/3m-egp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/3m-egp.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/aluminium-brushed-150cm.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/aluminium-brushed-150cm.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/aluminium-brushed-detail.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/aluminium-brushed-detail.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/asahi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/asahi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/aurocal-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/aurocal-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/aurocal-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/aurocal-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/aurocal-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/aurocal-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/carbon-2D-150cm.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-2D-150cm.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/carbon-3D-150cm.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-3D-150cm.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/carbon-3D-4D-5D-6D-150cm.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-3D-4D-5D-6D-150cm.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/carbon-4D-150cm.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-4D-150cm.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/carbon-5D-150cm.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-5D-150cm.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/carbon-6D-150cm.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-6D-150cm.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/carbon-kevlar-150cm.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/carbon-kevlar-150cm.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/cutter-with-grip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/cutter-with-grip.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/dcfix.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/dcfix.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/goodfix-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/goodfix-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/goodfix-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/goodfix-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/goodfix-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/goodfix-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/graphtec-blade-holder.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/graphtec-blade-holder.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/graphtec-blade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/graphtec-blade.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-arrow-wh-rd-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-arrow-wh-rd-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-arrow-wh-rd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-arrow-wh-rd.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-chess-wh-rd-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-chess-wh-rd-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-chess-wh-rd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-chess-wh-rd.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-chess-yl-bk-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-chess-yl-bk-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-chess-yl-bk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-chess-yl-bk.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-police-wh-rd-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-police-wh-rd-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-police-wh-rd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-police-wh-rd.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-police-yl-bk-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-police-yl-bk-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-police-yl-bk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-police-yl-bk.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-stripe-wh-rd-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-stripe-wh-rd-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/hc-stripe-wh-rd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/hc-stripe-wh-rd.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/honeycomb-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/honeycomb-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/honeycomb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/honeycomb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/magnet-pasang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/magnet-pasang.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/magnet-sheet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/magnet-sheet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/mc530.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/mc530.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/mimaki-blade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/mimaki-blade.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/oracal-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/oracal-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/oracal-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/oracal-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/oracal-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/oracal-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/prismatic-ce-bright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/prismatic-ce-bright.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/prismatic-ce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/prismatic-ce.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/rakel-3h.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/rakel-3h.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/rakel-3m-boss.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/rakel-3m-boss.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/rakel-besi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/rakel-besi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/rakel-biru.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/rakel-biru.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/rakel-kecil-bulat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/rakel-kecil-bulat.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/rakel-sendok.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/rakel-sendok.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/roland-blade-holder.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/roland-blade-holder.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/roland-blade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/roland-blade.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/scotchlite-kain-2.5cm-pantul.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/scotchlite-kain-2.5cm-pantul.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/scotchlite-kain-2.5cm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/scotchlite-kain-2.5cm.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/scotchlite-kain-5cm-pantul.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/scotchlite-kain-5cm-pantul.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/scotchlite-kain-5cm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/scotchlite-kain-5cm.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/tools-velt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/tools-velt.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/transfer-tape.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/transfer-tape.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/vinyl-hairline-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/vinyl-hairline-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/vinyl-hairline-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/vinyl-hairline-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/wood-vinyl-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/wood-vinyl-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/wood-vinyl-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/wood-vinyl-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/products/yellow-one.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/products/yellow-one.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="e8b3a71f-764f-4309-b610-fd07952cd2d7" name="Default Changelist" comment="resize pictures" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,7 +229,7 @@
       <workItem from="1599484473115" duration="8941000" />
       <workItem from="1622558227007" duration="859000" />
       <workItem from="1622811090330" duration="624000" />
-      <workItem from="1626417209812" duration="629000" />
+      <workItem from="1626417209812" duration="963000" />
     </task>
     <task id="LOCAL-00001" summary="Update products">
       <created>1599232030421</created>
@@ -401,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622558239450</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="resize pictures">
+      <created>1626417877766</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1626417877766</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,6 +370,7 @@
     <MESSAGE value="Product - Scapper rakel" />
     <MESSAGE value="Product - Others scotchlite kain" />
     <MESSAGE value="fix composer" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix composer" />
+    <MESSAGE value="resize pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="resize pictures" />
   </component>
 </project>
